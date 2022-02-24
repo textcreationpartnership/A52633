@@ -1,0 +1,390 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A narrative of the excommunication of Sir John Pettus of the county of Suffolk, Knight obtained against him by his lady, a Roman Catholick, and the true state of the case between them with his faithful answers to several aspersions raised against him by her, to the prepossessing the judgments of some honourable persons and others.</title>
+            <author>Pettus, John, Sir, 1613-1690.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 47 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52633</idno>
+            <idno type="STC">Wing N185</idno>
+            <idno type="STC">ESTC R23115</idno>
+            <idno type="EEBO-CITATION">12493124</idno>
+            <idno type="OCLC">ocm 12493124</idno>
+            <idno type="VID">62427</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52633)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 62427)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 769:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A narrative of the excommunication of Sir John Pettus of the county of Suffolk, Knight obtained against him by his lady, a Roman Catholick, and the true state of the case between them with his faithful answers to several aspersions raised against him by her, to the prepossessing the judgments of some honourable persons and others.</title>
+                  <author>Pettus, John, Sir, 1613-1690.</author>
+               </titleStmt>
+               <extent>[4], 16 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1674.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Pettus, John, --  Sir, 1613-1690.</term>
+               <term>Pettus, Elizabeth.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Graham Hukill</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Graham Hukill</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:62427:1"/>
+            <pb facs="tcp:62427:1"/>
+            <p>A NARRATIVE OF THE Excommunication OF Sir <hi>John Pettus</hi> of the County of <hi>Suffolk,</hi> Knight.</p>
+            <p>Obtained againſt <hi>him</hi> by his <hi>Lady,</hi> a <hi>Roman Catholick.</hi>
+            </p>
+            <p>AND The true <hi>ſtate</hi> of the <hi>Caſe</hi> between <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> WITH His faithful <hi>Anſwers</hi> to ſeveral <hi>Aſperſions</hi> raiſed againſt <hi>him</hi> by <hi>her,</hi> to the prepoſſeſsing the Judgments of ſome Honourable <hi>Perſons,</hi> and Others.</p>
+            <p>Printed in the Year, 1674.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:62427:2"/>
+            <pb facs="tcp:62427:2"/>
+            <head>To the READER.</head>
+            <p>THat he may make the more facile uſe of theſe following Diſcourſes, to ſatisfie his Curioſity or Judgment in any part, (if his leiſure will not ſerve him to peruſe the whole) I have abſtracted them under theſe diſtinct Heads.</p>
+            <p>
+               <hi>Firſt,</hi> Concerning my Wives twice deſerting me, and twice purloyning my Goods from me, and placing her ſelf in a <hi>Nunnery</hi> beyond the Seas.</p>
+            <p>
+               <hi>Secondly,</hi> Concerning my Ladies return from thence, after ſhe had lived from me there <hi>5.</hi> years; and <hi>5.</hi> years before <hi>incognita,</hi> and of her proceedings towards me above <hi>5.</hi> years ſince her return, to <hi>Aug. 72.</hi> and of her then unjuſt gaining an <hi>Excommu<g ref="char:EOLhyphen"/>nication</hi> againſt me.</p>
+            <p>
+               <hi>Thirdly,</hi> Concerning my Anſwers to her ſeveral Scandals in her <hi>Petitions</hi> and <hi>Libels</hi> againſt me; <hi>viz.</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>1.</hi> To her pretended great Fortunes which ſhe brought to me.</item>
+               <item>
+                  <hi>2.</hi> To my owning her Fortunes to be ſuch.</item>
+               <pb facs="tcp:62427:3"/>
+               <item>
+                  <hi>3.</hi> To my falſe entry of Debts into the Accounts of Sir <hi>Richard Gurney</hi>'s Eſtate, which were not his debts.</item>
+               <item>
+                  <hi>4.</hi> To the imperfection of her Joynture, pretended alſo to be bought with her money.</item>
+               <item>
+                  <hi>5.</hi> To the miſrepreſentations of my Fortunes and Diſpoſition.</item>
+               <item>
+                  <hi>6.</hi> To my Compliance with ſeveral Perſons in the late <g ref="char:V">Ʋ</g>ſurped Times.</item>
+               <item>
+                  <hi>7.</hi> To my breach of promiſe to the <hi>King</hi> and <hi>Councel,</hi> in not paying her <hi>104 l.</hi> per annum.</item>
+            </list>
+            <p>
+               <hi>Fourthly,</hi> Concerning her next proceedings againſt me from <hi>Aug. 72.</hi> at the <hi>Councel Table,</hi> and then at <hi>Doctors Commons,</hi> where her Excommunica<g ref="char:EOLhyphen"/>tion of me is once more gain'd; and once more, <hi>viz.</hi> in <hi>June 74.</hi> cauſed to be publiſhed in the Church.</p>
+            <p>
+               <hi>Fifthly,</hi> And ſo I conclude with the publique In<g ref="char:EOLhyphen"/>juries ſhe hath done, in diverting me ſo many years from ſome Eminent Services, ſome of which are par<g ref="char:EOLhyphen"/>ticulariz'd.</p>
+         </div>
+      </front>
+      <body>
+         <div type="discourse">
+            <pb n="1" facs="tcp:62427:3"/>
+            <head>Concerning my Wives firſt Separation from me, and her firſt purloyning of my Goods.</head>
+            <p>AFter we had lived about 18 years very Sociably and contentedly through all the Accidents of thoſe Times, She (about 15 years laſt paſt) went away from me (without any juſt cauſe given on my part,) but poſſibly ſhe being guilty of the changing her <hi>Religion,</hi> or ſome other <hi>diſobligations</hi> on her part, did think fit to <hi>deſert</hi> me, and ſo continued <hi>incognita</hi> full 5. years of the 15. When ſhe firſt went from me, it was privately and unſuſpected of me, ſo as by her Confederacy with a Servant of her Fathers, whom I kept in <hi>Suffolk,</hi> (I being in <hi>London</hi>) he con<g ref="char:EOLhyphen"/>vey'd away by her directions ſeveral Horſe-Loads of Goods in the Nights, of a conſiderable Value, which I could never Retrieve. Soon after this her <hi>firſt ſeparation,</hi> I imparted my Misfortunes to Biſhop <hi>Duppa</hi> (<hi>after Biſhop of</hi> Wincheſter, <hi>and Tutor to his Majeſtie when Prince</hi>) with whom ſhe had lived in her younger years, and I muſt ever acknowledge the great pains he took by often coming from <hi>Richmond</hi> to <hi>London</hi> to her; but at laſt ſhe abſented her ſelf from <hi>him alſo,</hi> and then he imploy'd other Reverend <hi>Divines</hi> to her, and writes to me thus, <hi>viz. I have ſent her word that I have heard and ſeen many Propoſals of yours to her, but I could never hear of any of hers to you, but I have deſired this Religious Peace-maker Dr.</hi> T. <hi>to preſs her in this particular.</hi> In another thus, viz. <hi>My former Letters to your Lady being rejected, I have no other Shrine to addreſs my ſelf to but to God,</hi> &amp;c. And in another (a little before
+<pb n="2" facs="tcp:62427:4"/>his Majeſties Return) thus, viz. <hi>I dare not ask you any thing con<g ref="char:EOLhyphen"/>cerning your Lady, for I fear her unflexible diſpoſition hath not yet relented, but I perſwade my ſelf that you keep the ſame preparation of mind to receive her, when ſhe ſhall ſo ſoften her heart as to de<g ref="char:EOLhyphen"/>fire it.</hi> And theſe Perſonal and Literal Applications from ſeve<g ref="char:EOLhyphen"/>ral Worthy <hi>Divines,</hi> and from her neareſt <hi>Relations,</hi> continued full 5. years, but could not batter down her <hi>obſtinacy.</hi>
+            </p>
+         </div>
+         <div type="discourse">
+            <head>Of her ſecond Separation, and ſecond purloyning from me.</head>
+            <p>IN 1662. my only Son (returning out of <hi>France</hi> a very accom<g ref="char:EOLhyphen"/>pliſh'd and endearing Perſon) did work upon her to <hi>Return</hi> to me (being then a ſolitary Houſe-keeper in <hi>Weſtminſter</hi>) to which ſhe conſented, ſo as I would pay her <hi>Debts</hi> amounting to 6. or 700 l. which I yielded to, ſo as my <hi>Jewels</hi> might be reſtored, which was performed on both ſides; but her debts amounted to more then 800 l. which I paid, and upon her <hi>Return</hi> I preſented her again with my <hi>Jewels</hi> above the value of 900 l. (however her <hi>abettors</hi> undervalue them) barely upon her and my Lord <hi>Richard<g ref="char:EOLhyphen"/>ſon</hi>'s promiſe that ſhe ſhould reſtore them, when ever I demanded them, (moſt of them being only lent me by my Mother.)</p>
+            <p>But ſoon after my only Son fell ſick (upon breaking a Vein) and I do believe his dayes were ſhortned by her demeanour towards me, after my ſo kind reception of her) and with that diſtemper and grief in his paſſage into <hi>Suffolk,</hi> (where deſirous to be buried) he dyed.</p>
+            <p>After I had performed his Funerals, I writ to her ſeveral Con<g ref="char:EOLhyphen"/>ſolatory Letters, and when I thought thoſe might have made ſome kind impreſſions, I writ ſome <hi>Propoſals</hi> for our more contented living for the <hi>future;</hi> which <hi>Letter and Propoſals</hi> ſhe ſent back to me with this onely <hi>Anſwer</hi> writ and ſubſcribed with her <hi>own hand, That ſhe would conſent to none of them;</hi> upon which I writ again to her, That the Leaſe of my houſe being near expir'd, that ſhe might take care for ſome convenient houſe of a leſs rate, and furniſh it with <hi>ſome Goods,</hi> and ſend the <hi>reſt</hi> into <hi>Suffolk:</hi> But in<g ref="char:EOLhyphen"/>ſtead of removing part of them to another <hi>houſe,</hi> in the Night times ſhe rifled the <hi>whole houſe,</hi> and ſent away <hi>Pictures</hi> (pawn'd to me for a conſiderable ſumme) to one place, my Books, Goods,
+<pb n="3" facs="tcp:62427:4"/>Rarities and other Pictures to other places, and this done ſo ſuddenly, that I had no notice till the moſt valuable were diſpo<g ref="char:EOLhyphen"/>ſed of; and ſo ſoon as ſhe had thus twice made thoſe <hi>purloyn<g ref="char:EOLhyphen"/>ings</hi> and diſpoſed of them this <hi>ſecond time,</hi> ſhe went again from me, and to a Nunnery <hi>beyond Sea,</hi> without my <hi>privity, conſent,</hi> or the leaſt <hi>allowance;</hi> and ſhe had not been there long, but a Perſon of quality of her Religion (yet my very good friend) acquainted me with it, and told me 'twere better for me to allow her ſomething there, then that ſhe ſhould return again, and that if I would, the Pope would grant us a Divorce; I anſwered, That I knew no cauſe of Divorce on my part, and if there were, it might be done by our own Lawes; but when I perceived from his diſcourſe no likelihood of the <hi>reſtitution</hi> of my <hi>Goods</hi> and <hi>Jewels,</hi> I was content ſhe ſhould have the Rent of her Fathers houſe in <hi>Cheapſide</hi> ſo long as the Leaſe continued, which being 100 l. <hi>per annum,</hi> was duly paid her for 5. years whilſt ſhe continued in the <hi>Nunnery.</hi>
+            </p>
+         </div>
+         <div type="discourse">
+            <head>Concerning her <hi>Return</hi> from the <hi>Nunnery</hi> after ſhe had been there <hi>5.</hi> years <hi>inſtructed.</hi>
+            </head>
+            <p>AFter her 5. years continuance in the <hi>Nunnery,</hi> upon ſome encouragement (as I conceive) ſhe comes over into <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and demands no leſs than 200 l. <hi>per annum</hi> for Alimony, yet no reſtitution of my Jewels or Goods to be had: But the Leaſe of the houſe in <hi>Cheapſide</hi> was newly expired, and my For<g ref="char:EOLhyphen"/>tunes thus and otherwiſe exhauſted, I declared that I could not ſpare ſuch an annual Rent, nor any thing near it, and that my Fortunes being uncertain, I could not agree to any other <hi>cer<g ref="char:EOLhyphen"/>tainty,</hi> then that what <hi>Incomes</hi> did come monthly or quarterly in, ſhe ſhould have ſuch a proportion of them as ſhould be agreed on; but this liked her not, ſo ſhe Petitions to the <hi>King</hi> for <hi>Ali<g ref="char:EOLhyphen"/>mony,</hi> and therein boaſting of her great Fortunes, his <hi>Majeſtie</hi> refers it to the Lord <hi>Keeper Bridgman,</hi> who reported that he could not Compoſe the matter.</p>
+            <p>Then ſhe attended the <hi>Houſe</hi> of <hi>Commons</hi> dore for near a month together with a moſt <hi>ſcandalous Petition,</hi> which ſhe ſhewed to ſeveral <hi>Members</hi> of Parliament as they paſſed by, not with in<g ref="char:EOLhyphen"/>tent
+<pb n="4" facs="tcp:62427:5"/>to have it read in the Houſe, but to <hi>defame</hi> and leſſen my eſteem there as a Member; but at laſt upon my importunity to ſome of my fellow Members, ſhe could not refuſe to deliver it into the hands of one of that Houſe, who (notwithſtanding my <hi>preſſing to have it read</hi>) did not put it forward, which occaſion'd me to ſpeak that in the Houſe concerning her and her party, which made her forbear any furthar <hi>attendance</hi> that <hi>Seſſions,</hi> or any reply.</p>
+            <p>After that Seſſions ſhe preferrs a <hi>Libel</hi> far more <hi>ſcandalous</hi> into the <hi>Spiritual Court,</hi> where alleadging my <hi>cruel uſage</hi> of her to be the Motive of her going from me, and that <hi>allegation</hi> more then 10. years after her firſt ſeparation, and more than 5. after her ſe<g ref="char:EOLhyphen"/>cond <hi>ſeparation</hi> from me, and made no Proof thereof in Court, nor produc'd ſo much as one Witneſs to confirm it, (nor ever can) without admitting any <hi>allegation</hi> on my part, either whether A<g ref="char:EOLhyphen"/>limony were <hi>due</hi> to her or not, and that though by the <hi>Eccleſia<g ref="char:EOLhyphen"/>ſtical Laws</hi> Goods and Jewels ſo taken, ought to be allow'd in the <hi>Alymony,</hi> yet the Court not only denyed to <hi>admit</hi> of my <hi>allega<g ref="char:EOLhyphen"/>tions,</hi> but denyed ſo much as to <hi>admit</hi> that ſhe ſhould anſwer to what <hi>Goods,</hi> and to what <hi>value</hi> they were of, which were taken from me (which might have been diſpatcht in 2. days, if ſhe had pleaſed) ſo as I was ſentenced to pay (meerly upon her <hi>falſe ſug<g ref="char:EOLhyphen"/>geſtions</hi>) 4 <hi>l. per</hi> week, from <hi>October</hi> 1673. (when ſhe firſt put in her Libel) without hearing of any thing I had to ſay in my de<g ref="char:EOLhyphen"/>fence; upon which I <hi>appealed</hi> to the <hi>Delegates,</hi> who abated 20 <hi>s.</hi> a week of their rigour.</p>
+            <p>And though in all this time I could not be perſonally preſent as I deſired, to <hi>adjuſt</hi> my Eſtate and what ſhe had taken from me (which ought to have been the <hi>ground</hi> of <hi>Alymony</hi>) in re<g ref="char:EOLhyphen"/>ſpect I was imployed as Deputy Lieutenant, Colonel of a Regi<g ref="char:EOLhyphen"/>ment of the Traind-Band, Juſtice of Peace, and Deputy to the Vice Admiral, for that part of the County of <hi>Suffolk</hi> (where all the Ingagements were with the <hi>Dutch;</hi> and had got ſo great a hurt in my Legg (of which I am not yet fully Cured) occa<g ref="char:EOLhyphen"/>ſion'd by going a Board the Duke for Orders) of all which full Notice was given the Court; yet almoſt at the very time of the Ingagement, I alone was thought fit <hi>(right or wrong)</hi> to be Ex<g ref="char:EOLhyphen"/>communicated, only by 3. Doctors, 5. being preſent, whereof 2.
+<pb n="5" facs="tcp:62427:5"/>
+               <hi>excepted</hi> againſt it, as not done to the meaneſt <hi>Seaman</hi> or <hi>Souldier</hi> upon producing of a Certificate: And accordingly it was Pub<g ref="char:EOLhyphen"/>liſhed in the Church, when I was alſo in great Imployments in diſpoſing priſoners, &amp;c.</p>
+            <p>And this is the ſubſtance of the <hi>Caſe</hi> between my Lady and me to <hi>Auguſt,</hi> 1672. But before I acquaint the Reader with any further Proceedings in this Court, I think fit to give my An<g ref="char:EOLhyphen"/>ſwers to moſt of the material Scandalls, which ſhe hath ven<g ref="char:EOLhyphen"/>ted in her Petitions, Libells, and common Diſcourſes. And though I have obſerved, that ſometimes it is better to let <hi>Scan<g ref="char:EOLhyphen"/>dalls</hi> and <hi>Libells</hi> dye in their own aſhes, than by defences to give them further flames by <hi>publication</hi> or <hi>exaſperations;</hi> Yet having for many years groaned under the Clamours of ſeveral perſons, which I find by my long ſilence hath done me injury, ſome ha<g ref="char:EOLhyphen"/>ving imputed it to a <hi>conceeſſion</hi> (which was only either my mode<g ref="char:EOLhyphen"/>ſty or prudence not to oppoſe); I am at laſt covinced by ſome of my worthy Friends of the neceſſity of <hi>Publiſhing</hi> my own <hi>Ju<g ref="char:EOLhyphen"/>ſtification,</hi> which I ſhall do with as much <hi>cleerneſs</hi> and <hi>integrity</hi> as is poſſible for my Pen to perform.</p>
+            <p>The Spring from whence all my Misfortunes herein ariſe is, from the Lady <hi>Eliz. Pettus,</hi> who calls her ſelf my Wife, That ſhe was ſo, whileſt ſhe lived contentedly with me about 18. years; I own, that ſhe is ſo; Now is a <hi>doubt</hi> in our <hi>Laws,</hi> which I de<g ref="char:EOLhyphen"/>ſire may be fairly decided, (ſhe having gone from me about 16. years, ſince the ſaid 18.) before I give her any other Title than my Lady; Nor would I have ſet Pen to Paper to ſatisfie the vul<g ref="char:EOLhyphen"/>gar tatling Brains; but my Buſineſs having been before the <hi>King,</hi> the <hi>Councel</hi>-Table, <hi>Parliament</hi>-Houſe, <hi>Civil</hi> and <hi>Eccleſiaſtical-Courts, Cities, Burroughs</hi> and <hi>Counties,</hi> wherein I have had ſig<g ref="char:EOLhyphen"/>nal Tranſactions as well in this, as other matters, I thought my ſelf oblieged at laſt, to give the Reader ſuch a juſt Account of my ſelf as by undenyable Proofs may render me (I hope) blameleſs, in theſe matters whereof I am <hi>accuſed,</hi> and which have occaſio<g ref="char:EOLhyphen"/>ned the grounds of thoſe <hi>Aſperſions,</hi> which have moſt evidently injured me, in that cleer Reputation, which I conceive nothing could have ſhaken, but <hi>Mallice</hi> and <hi>Credulity</hi> to believe what ever ſhe reports.</p>
+            <pb n="6" facs="tcp:62427:6"/>
+            <p>Now to ſatisfie ſuch perſons, I ſhall proceed in my <hi>Anſwers,</hi> and I hope ſo convincingly, as may once more obtain their juſt <hi>Eſteems,</hi> and free me from her unjuſt <hi>Aſperſions.</hi>
+            </p>
+         </div>
+         <div type="discourse_answer">
+            <head>The Firſt</head>
+            <p>
+               <hi>Aſperſion</hi> (and of greateſt weight to guide the Judg<g ref="char:EOLhyphen"/>ments of others in point of <hi>Pitty</hi> and <hi>Alimony</hi>) ſhe hath toſs d about in her Petitions to the <hi>King</hi> and <hi>Councel</hi> very modeſtly, that ſhe brought 12000 l. Portion to me; but in her Petition pretended for the <hi>Parliament</hi> ſhe affirms more: To the Eccle<g ref="char:EOLhyphen"/>ſiaſtical Court, 40, 30, or 20000 l. and in her common diſcourſe 29000 l. at leaſt.</p>
+            <p>To which I anſwer, That if any of thoſe were true, I ſhould ſhew a very <hi>ungrateful</hi> Nature not to give her a <hi>Subſiſtance</hi> ſuit<g ref="char:EOLhyphen"/>able; or if it be ſpent, I ſhould ſhew much <hi>unworthineſs</hi> not to acknowledge it: And to <hi>convince</hi> any, in this may ſeem a <hi>diffi<g ref="char:EOLhyphen"/>cult</hi> task. But I ſhall thus attempt it; In ſhort, I have re<g ref="char:EOLhyphen"/>gain'd (by good fortune) Sir <hi>Richard Gurney</hi>'s <hi>Year-Book,</hi> which now I have to produce of every Years <hi>Inventory</hi> of his <hi>Eſtate</hi> and <hi>Debts</hi> (all writ with his own hand, and his Name ſubſcribed to every page) (with a Prayer into bargain): The firſt begins the 28<hi rend="sup">th</hi> of <hi>Decemb.</hi> 1629. and then the ſum of his <hi>Eſtate</hi> real and perſonal ſet down in particulars amounted to 27058 l. 12 s. 11 d. his <hi>Debts</hi> then 2431 l. 8 s. 5 d. So as his remaining <hi>Eſtate</hi> was then caſt up at 24627 l. 4 s. 6 d. and ſo the Books continue till 1642. upon ſeveral <hi>increaſes</hi> and <hi>decreaſes.</hi> But I ſhall not trouble the Reader with the Sums of every <hi>ſucceſſive year,</hi> (which are writ all with his own hand) but only come to his <hi>laſt Account,</hi> viz. 12. <hi>Octob.</hi> 1642. when he was a <hi>Priſoner</hi> in the <hi>Tower,</hi> ſo that during his life there, which ended <hi>Octob.</hi> 3<hi rend="sup">d</hi>. 1647. his Eſtate being at that time <hi>Sequeſter'd,</hi> and many years after his <hi>death,</hi> no man can imagine that he could increaſe it, and by that <hi>laſt Inventory,</hi> and that only of all the reſt is writ by his Caſheere (yet living) and by that it appears his Eſtate amounted then to 46903 l. 12 s. 4 d. which was the higheſt of all his <hi>In<g ref="char:EOLhyphen"/>ventories</hi> from the Year 1629. to that time, and the Debts which he owed on the other ſide were 10607 l. 18 s. 1 d.</p>
+            <pb n="7" facs="tcp:62427:6"/>
+            <p>
+               <table>
+                  <row>
+                     <cell>So that the ballance of his Eſtate was then, but</cell>
+                     <cell>36295</cell>
+                     <cell>14</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>Now at his death there was but 25 l. left in money. So that the 46903 l. 12 s. 4 d. is thus clearly and ſhortly accounted for:</cell>
+                     <cell>46903</cell>
+                     <cell>12</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>l.</cell>
+                     <cell>s.</cell>
+                     <cell>d.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Imprimis,</hi> his <hi>Funeral</hi> coſt as appears by a juſt Account, <hi>all borrowed</hi>
+                     </cell>
+                     <cell>0562</cell>
+                     <cell>19</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Lady Gurney</hi> his ſecond Wife his Re<g ref="char:EOLhyphen"/>lict had a <hi>Statute</hi> on the whole Eſtate, ſo that we were forced by <hi>Decree</hi> of Chan<g ref="char:EOLhyphen"/>cery, (of which we <hi>borrowed</hi> the greateſt part) to pay her down</cell>
+                     <cell>8220</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Haberdaſhers</hi> Hall had (beſides charges) part <hi>borrowed</hi>
+                     </cell>
+                     <cell>1248</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Lord Richardſon</hi> had for his Portion, <hi>part borrowed</hi>
+                     </cell>
+                     <cell>6200</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>And <hi>He</hi> and his <hi>Lady</hi> in Compoſition for the remaining Eſtate hereafter mention<g ref="char:EOLhyphen"/>ed, had <hi>part alſo borrowed</hi>
+                     </cell>
+                     <cell>3556</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>The Debts due upon the Inventory afore<g ref="char:EOLhyphen"/>ſaid made in 1642. were duly paid, <hi>viz. part alſo borrowed</hi>
+                     </cell>
+                     <cell>10607</cell>
+                     <cell>18</cell>
+                     <cell>01</cell>
+                  </row>
+                  <row>
+                     <cell>Other Debts contracted in his <hi>Impriſonment</hi> and paid by us, and <hi>part borrowed</hi>
+                     </cell>
+                     <cell>1860</cell>
+                     <cell>13</cell>
+                     <cell>09</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Legacies</hi> paid by us</cell>
+                     <cell>0896</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>So the Debts which were actually contract<g ref="char:EOLhyphen"/>ed by Sir <hi>Rich. Gurney</hi> and paid <hi>ut ſupra,</hi> amounted to</cell>
+                     <cell>33151</cell>
+                     <cell>10</cell>
+                     <cell>11</cell>
+                  </row>
+                  <row>
+                     <cell>And the Eſtate yet remaining in <hi>Securities,</hi> is</cell>
+                     <cell>13356</cell>
+                     <cell>12</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>Totall</cell>
+                     <cell>46508</cell>
+                     <cell>02</cell>
+                     <cell>05</cell>
+                  </row>
+                  <pb n="8" facs="tcp:62427:7" rendition="simple:additions"/>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>l.</hi>
+                     </cell>
+                     <cell>
+                        <hi>s.</hi>
+                     </cell>
+                     <cell>
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Now the utmoſt of his <hi>Eſtate</hi> being never above</cell>
+                     <cell>46903</cell>
+                     <cell>12</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>And the undenyable Disburſements without any Addition of Char<g ref="char:EOLhyphen"/>ges with the Remainder being</cell>
+                     <cell>46508</cell>
+                     <cell>11</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>The Whole Account is ballanced with</cell>
+                     <cell>395</cell>
+                     <cell>1</cell>
+                     <cell>0</cell>
+                  </row>
+               </table>
+            </p>
+            <p>So that where was the 40 30 29 or, 12 thouſand pounds, or 2 pence to be had (as is pretended by her <hi>Allegations</hi>) for can any one fancy (but a Woman) that 395 <hi>l.</hi> 1 <hi>s.</hi> 0 <hi>d.</hi> could mannage an Eſtate ſo <hi>incumbred</hi> when he died, in 13. <hi>Committees,</hi> in <hi>Statutes, Judgments, Mortgages, Accounts,</hi> of great and various natures, and perplext <hi>Suits,</hi> which are ſcarce yet determined, beſides the troubles of 5000 <hi>l.</hi> which the then Powers would have had out of that Eſtate; the <hi>Conteſts</hi> about which laſting above 9. years after his death.) And after I had been <hi>Sequeſtred</hi> 4. years upon the <hi>general</hi> Account, I ſtood ſequeſtred one year and a half more to preſerve the Lord <hi>Richardſon</hi> (joynt Executor with me in right of his Lady) from the moyety of that 5000 <hi>l.</hi> which he had contentedly ſecured to <hi>Goldſmiths-hall,</hi> rather than ſtand it out, as I did; at laſt after 6 years in his life time, and 9 years after his death I was freed from this unſpeakable trouble and charge about the 5000 <hi>l.</hi> and the Lord <hi>Richardſon</hi> from the Security which he had given ſo tamely for the moyetie: by the kind and juſt aſſiſtance of <hi>Charles Fleetwood</hi> then Lieutenant General; but I could never retreive the 700 <hi>l.</hi> which the Committees took from me of my own Mony, by Seiſures, and Rents.</p>
+            <p>Which made the Lord <hi>Richardſon</hi> then ſo ſenſible of my <hi>cane</hi> and <hi>trouble,</hi> and <hi>charge,</hi> that by the advice of Sir <hi>Thomas Beding-feild,</hi> and Sir <hi>Thomas Runt</hi> (both of our <hi>ſtanding Council</hi>) he and his Lady with my Lady; did under their <hi>hands</hi> and <hi>ſeals</hi> make over the moſt conſiderable part of the remainder of Sir <hi>Richards Eſtate</hi> to me, for my <hi>Reimburſement</hi> and <hi>Satisfaction:</hi> But my Lady not having that advantage by it, which ſhe expe<g ref="char:EOLhyphen"/>cted, (I being not obliged to it by any ſuch Conditions)
+<pb n="9" facs="tcp:62427:7"/>ſhe <hi>proteſted</hi> and <hi>continues</hi> in that minde, that ſhe was <hi>for<g ref="char:EOLhyphen"/>ced</hi> and <hi>inveigled</hi> into it, whereupon from that time to this in regret to that part of her <hi>ungrateful nature</hi> (after all my endea<g ref="char:EOLhyphen"/>vours to preſerve the repute of her Father) I thought fit ever<g ref="char:EOLhyphen"/>ſince not to concern my ſelf in the advantages of it, although I might Legally have done it, as well for my <hi>recompence</hi> as for my <hi>reimburſement</hi> of very conſiderable ſummes which I have expen<g ref="char:EOLhyphen"/>ded, and to which I am ſtill ſubject by the continuing <hi>troubles</hi> of that <hi>Eſtate:</hi> So that from the death of Sir <hi>Richard Gurney</hi> to this time, I hope it doth Cleerly appear to any rational man, that I have had no profit out of that Eſtate, and as evident to their Judgements, that beſides what hath been received, that my disburſements muſt neceſſarily be very great, as in truth they are.</p>
+            <p>Now from the time of my <hi>Marriage</hi> to his Death, I never re<g ref="char:EOLhyphen"/>ceived more then 4000 <hi>l.</hi> for his <hi>Portion,</hi> which ſummer my then <hi>Eſtate</hi> might juſtly expect, according to the <hi>ſtricteſt Rules</hi> of <hi>City Matches,</hi> her <hi>Brother</hi> was then living; and I had then <hi>poſſibility</hi> on my ſide from my Father and Mothers Relations, greater than could be expected from hers; ſo that 4000 <hi>l.</hi> I had, and no more during her Fathers life.</p>
+            <p>And I am ſure when ſhe went from me the firſt and ſecond time, <hi>viz.</hi> in 57. and 62. ſhe <hi>purloined</hi> and <hi>received</hi> much more from me that ſumme; ſo that I conceive every ſmall ac<g ref="char:EOLhyphen"/>countant may be ſatisfied that I have loſt much, but got no<g ref="char:EOLhyphen"/>thing by her, from <hi>firſt to laſt,</hi> and if any one out of <hi>Juſtice</hi> to her or me ſhall deſire to be ſatisfied in any of theſe <hi>allega<g ref="char:EOLhyphen"/>tions,</hi> I will truely and thankfully produce the Books and Accounts for their ſatisfaction, and my own <hi>vindication</hi> herein.</p>
+            <p>Secondly, Next ſhe ſaith, That ſhe can prove, that when ſome did alledge to me, That ſhe had brought me a great <hi>Fortune,</hi> that I never denyed it.</p>
+            <p>To which I Anſwer, That it had been a weakneſs in me, if I had, nor ſhould I have now done it but upon this occaſion, for that <hi>eſtimation</hi> of her <hi>Fortunes</hi> poſſibly did carry me through her Fathers and other great concerns.</p>
+            <p>Thirdly, She ſaith, I have put into the Account of Sir <hi>Ri<g ref="char:EOLhyphen"/>chard Gurneys</hi> Eſtate ſeveral Debts, which were not Sir <hi>Ri<g ref="char:EOLhyphen"/>chards.</hi>
+            </p>
+            <pb n="10" facs="tcp:62427:8"/>
+            <p>To which I Anſwer, That I do acknowledge it, but do alſo affirm, that that they were Monies borrowed to pay Sir <hi>Richards</hi> Debts as aforeſaid, for we could not pay the Lady <hi>Gurney,</hi> nor the Lord <hi>Richardſon,</hi> &amp;c. ſo great ſummes without borrowing conſiderable ſummes, and ſo there is no injury done thereby, for it was equal whether we paid Intereſt to the Lady <hi>Gurney,</hi> &amp;c. or to ſtrangers, only by changing hands we had ſome advantages, in changing <hi>real ſecurities</hi> into our perſonal ſecurities</p>
+            <p>Fourthly, Next, That her <hi>Joynture</hi> falls ſhort of 500 <hi>l. per annum,</hi> according to my Covenant, and that, that Eſtate was bought with her <hi>Portion.</hi>
+            </p>
+            <p>To which I Anſwer and Affirm, That this is only her mi<g ref="char:EOLhyphen"/>ſtake, for I bought <hi>Cheſton</hi> in <hi>Suffolk,</hi> (which is her <hi>Joynture</hi>) and pay'd for it with my own Mony before Marriage, but the Mannor of <hi>Winhaſton,</hi> which is within 2. miles of <hi>Cheſton</hi> of a<g ref="char:EOLhyphen"/>bout 300 <hi>l. per annum</hi> I bought with her <hi>Portion,</hi> with ſome addi<g ref="char:EOLhyphen"/>tion of my <hi>own,</hi> as alſo a <hi>Farme</hi> of 130 <hi>l. per annum</hi> not far from <hi>Cheſton</hi> (but both that <hi>Farme</hi> and <hi>Winhaſton</hi> being then about 400 <hi>l. per annum</hi>) I ſold again ſoon after Sir <hi>Richard Gurneys</hi> death with her conſent, to pay the Mony which I had taken up for my <hi>Compoſition,</hi> and cleering of my Debts contracted in the laſt <hi>Kings Warrs;</hi> which ſurely I had not done (lying ſo com<g ref="char:EOLhyphen"/>modious for me, that they are Eye-ſores to me every morning I look out, but not to my Heart in its Loyalty) if I had not a cleer proſpect that Sir <hi>Richards</hi> Eſtate would afford me <hi>nothing,</hi> or not any thing till the great <hi>Incumbrances</hi> and <hi>Debts</hi> on his E<g ref="char:EOLhyphen"/>ſtate were firſt diſcharged; So that if <hi>Cheſton</hi> which is her re<g ref="char:EOLhyphen"/>maining Joynture (free from any <hi>praeincumbrance,</hi> as ſhe alſo <hi>a<g ref="char:EOLhyphen"/>ſperſeth</hi>) doth fall ſhort of her expectation (as to value) ſhe may impute ſomething to the <hi>times,</hi> or may ſue my <hi>Executors,</hi> and not now do what ſhe can to obſtruct me in any Capacities that may make good my <hi>intentions</hi> by <hi>addition</hi> or <hi>improvement,</hi> if either ſhe, or her <hi>fortunes</hi> had deſerved ſuch from my Induſtry.</p>
+            <p>The next is, Her publick <hi>miſrepreſentation</hi> of my <hi>Fortunes</hi> and <hi>Eſtate,</hi> and as if I denying to allow ſuch <hi>Allimony</hi> as ſhe thinks fit, were out of a <hi>cruel</hi> and <hi>niggerly diſpoſition,</hi> and with<g ref="char:EOLhyphen"/>all publiſheth, what great Fortunes I have acquired by the late death of my <hi>Mother;</hi> and by my <hi>ſervices</hi> to his <hi>Majeſtie</hi> and his
+<pb n="11" facs="tcp:62427:8"/>bleſſed Father; and what other great ſummes I have in other mens hands.</p>
+            <p>To which I anſwer, That if my diſpoſition had been <hi>cruel</hi> as ſhe alledgeth in her <hi>Libel,</hi> or <hi>niggardly,</hi> it would ere this have been ſeen by ſome others, as well as her ſelf, for as yet there is nothing appears but her ſingle <hi>affirmation,</hi> and my <hi>poſitive deny<g ref="char:EOLhyphen"/>al</hi> to own ſuch <hi>baſe tempers;</hi> and I am ſure this <hi>aſperſion</hi> cannot hurt me with any who will be ſo kind as to enquire of my whole <hi>Life</hi> and <hi>Converſation:</hi> But as to the other part of her Charge, ſhe hath done me an unſpeakable injury; becauſe the <hi>Creditors</hi> (to whom I am ingaged for ſeveral other perſons (more reſpon<g ref="char:EOLhyphen"/>ſible than my ſelf) who hitherto have been patient) upon theſe ſuggeſtions have fallen on me with great ſeverity; and therefore to undeceive and reduce them into a better temper, I do really and truly declare, That I never had any thing from the laſt King, nor his preſent Majeſtie ever ſince 1639. when I firſt en<g ref="char:EOLhyphen"/>tered into their <hi>Military</hi> and <hi>Civil Imployments;</hi> and yet I muſt ingeniouſly confeſs, their reſpects have been ſuch to me, that they never denyed me what ever I <hi>asked,</hi> but I muſt as truly ſay, that I never <hi>injoyed</hi> what ever they granted me.</p>
+            <p>Next as to the advantage by my <hi>Mothers</hi> death, It is quite con<g ref="char:EOLhyphen"/>trary (for beſides the loſs of ſo good a one) I loſt the benefit of above 400 <hi>l. per annum,</hi> part of which being the Joynture from her ſecond Husband, ſhe injoying it neer 50. years, and I receiving the benefit of it for many years, 'twas lookt upon as an <hi>acceſs,</hi> when in truth it was but a <hi>deceaſe</hi> of ſo much of my <hi>Fortunes,</hi> and I muſt acknowledge to the Repute of her <hi>Memory,</hi> that by her great aſſiſtance, and by the Sale of all the Lands I could ſell, and by getting in ſuch of my Debts, as I could fairly perſwade my <hi>Creditors</hi> to pay, I have within Ten years laſt paſt freed my ſelf from above 28000 <hi>l. Debts</hi> and <hi>In<g ref="char:EOLhyphen"/>gagements,</hi> by which my diſpoſition may be ſeen, how juſtly I intend towards all men, whether the Debts were properly mine or not, and yet there are remaining ingagements, and but very few of which I can properly call my <hi>own,</hi> to ſatisfie all which, I am and ſhall be <hi>induſtrious</hi> as they themſelves can be, and I hope there is ſufficient left for Us both, eſpecially if my <hi>Debtors</hi> be as juſt to me, as I ſhall endeavour to be to my <hi>Creditors.</hi>
+            </p>
+            <pb n="12" facs="tcp:62427:9"/>
+            <p>Then in her <hi>Petitions</hi> to his <hi>Majeſtie,</hi> the <hi>Parliament</hi>-Houſe, and in her <hi>Libels</hi> in the <hi>Spiritual Court,</hi> ſhe was pleaſed to in<g ref="char:EOLhyphen"/>timate my Relations to ſome men of <hi>Power</hi> in the late <hi>uſurping</hi> Times, touching upon <hi>generals,</hi> but not <hi>particulars,</hi> onely Col. <hi>Fleetwood.</hi>
+            </p>
+            <p>Concerning whom, I return this Anſwer, That I had ſome Opportunities to vindicate my ſelf at the <hi>Councel-Board</hi> the Firſt of <hi>Octob.</hi> 1672. (being ſummon'd thither upon her Peti<g ref="char:EOLhyphen"/>tion) where his Majeſtie was preſent) and amongſt other things, to that part of her <hi>Petition</hi> which ſhe intended as a <hi>blemiſh</hi> to me, I ſpake in theſe words to His <hi>Majeſty,</hi> as near as I can re<g ref="char:EOLhyphen"/>member what I had writ.</p>
+            <p>
+               <hi>Sir,</hi> I do acknowledge I received <hi>Civilities</hi> from many who were in conſiderable Imployments in the time of your <hi>Exile,</hi> but eſpecially from <hi>Charles Fleetwood</hi> Eſq (then Lieut. Gene<g ref="char:EOLhyphen"/>ral,) whoſe firſt Wives name was <hi>Smith,</hi> and ſhe was of Kin to me by 4. ſeveral Families, <hi>viz,</hi> the <hi>Lord Hoptons,</hi> Sir <hi>Ed<g ref="char:EOLhyphen"/>mund Mundiford,</hi> Sir <hi>Owen Smith,</hi> and her <hi>Father Smith,</hi> and from them ſhe inherited a conſiderable Eſtate, and when ſhe lay on her Death-bed, ſhe foreſeeing the probability of his mar<g ref="char:EOLhyphen"/>rying again, and of other greater Imployments, ſhe (as I was informed) deſired him, that in his abſence I might have the In<g ref="char:EOLhyphen"/>ſpection of his Childrens concerns by her; which I accepted, propoſing only, That he would pleaſe to ſettle the <hi>Eſtate</hi> that came by her, upon them; which he freely did, reſerving but a ſmall <hi>pittance</hi> for himſelf; which <hi>worthy act</hi> of his did much oblige my <hi>Care.</hi>
+            </p>
+            <p>But this was not the ground of our <hi>Acquaintance,</hi> for I was taken Priſoner at <hi>Layſtaffe</hi> in 1642. by <hi>Cromwell,</hi> and after when <hi>Briſtol</hi> was ſurrendred to <hi>Fairfax,</hi> both my ſelf and Wife wanting Accommodations to march away, we received ſeveral <hi>Civilities</hi> from him; and after all this, he ſaved both my <hi>Life</hi> (as I could at large demonſtrate) as alſo my own <hi>Eſtate,</hi> and Sir <hi>Richard Gurney</hi>'s, and my Lord <hi>Richardſons,</hi> ſo that my <hi>Lady,</hi> nor any elſe had any reaſon to accuſe me for my <hi>Reſpects</hi> to him: And though he was a Perſon not to be tempted to <hi>unfaithfulneſs</hi> to his Party, yet there are many of the Chief <hi>Nobility</hi> of <hi>England</hi> who did, and are ready to Juſtifie what
+<pb n="13" facs="tcp:62427:9"/>great <hi>Civilities</hi> and Kindneſſes he did in the preſervation of their <hi>Perſons</hi> and <hi>Eſtates,</hi> (and I could boaſt how inſtrumental by his Favours I was therein); and though I had alwayes a ge<g ref="char:EOLhyphen"/>nerous <hi>kindneſs</hi> from him, yet I never accepted of <hi>Place, Office</hi> or <hi>Imployment,</hi> or any <hi>advantage</hi> more then my own <hi>preſerva<g ref="char:EOLhyphen"/>tion</hi> by him and by his <hi>Kindneſs,</hi> (which I eſteemed greateſt of all) I was preſerved from the preſſures of <hi>Oaths</hi> or <hi>Renun<g ref="char:EOLhyphen"/>ciations,</hi> and by his aſſiſtance I did <hi>Courteſies</hi> to <hi>many,</hi> never any <hi>injury</hi> to <hi>any;</hi> and though in the higheſt of his <hi>power</hi> my <hi>Lady</hi> did run from me, yet I never made uſe of into <hi>reduce</hi> her, or <hi>revenge</hi> my ſelf on thoſe who <hi>perverted,</hi> and <hi>inveigled</hi> her from me; though <hi>tempted</hi> to it.</p>
+            <p>And that I may ſtand right in your <hi>Majeſties</hi> Eſteem, and free others of the leaſt doubt of my <hi>Fidelity,</hi> I freely offer, That if ſhe or any elſe have any matter to <hi>charge</hi> me with, I deſire they may proceed in the <hi>charge,</hi> and I do proteſt, that although her <hi>Scandalous</hi> Petitions here and elſe where are contrary to, and thereby an <hi>affront</hi> to your <hi>Majeſties</hi> Act of <hi>Oblivion,</hi> granted ſoon after your Return, yet in this caſe I will <hi>decline</hi> it, or any <hi>Priviledges</hi> I have by being a <hi>Member</hi> of <hi>Parliament,</hi> and ſtand wholly upon the <hi>Juſtification</hi> of my Integrity, and being well aſſured in my ſelf that my <hi>Principles</hi> would not ſuffer me to be inſnared into any act or pretence of <hi>Diſloyalty,</hi> (more then a quiet ſubmiſſion to the preſent Power over me) and I wiſh all men would as I do, diſcover their <hi>Principles,</hi> and you would be more ſafe in your Subjects.</p>
+            <p>
+               <hi>Sir,</hi> I do without wavering own my ſelf a true <hi>Proteſtant</hi> and Profeſſor of the <hi>Doctrine</hi> and <hi>Diſcipline</hi> of the <hi>Church</hi> of <hi>England,</hi> being the beſt <hi>Reformed Church</hi> in <hi>Europe</hi> in its <hi>Foun<g ref="char:EOLhyphen"/>dations,</hi> though it may be not at this time in its <hi>Practice. Doctor Hammond</hi> was my <hi>Tutor</hi> as to the <hi>Doctrinal</hi> part; Ad<g ref="char:EOLhyphen"/>mired <hi>Hooker</hi> to the <hi>Diſcipline,</hi> and I doubt not but I ſhall al<g ref="char:EOLhyphen"/>wayes adhere to the <hi>Principles</hi> of being dutiful both to <hi>God</hi> and the <hi>King;</hi> and though <hi>Coll. Fleetwood</hi> and I did not agree to <hi>all</hi> the <hi>Fundamentals</hi> of this <hi>Church,</hi> yet no man can perſwade me from my <hi>gratitude</hi> towards him, for I do own (as I ſaid) the former part of my <hi>Life</hi> and <hi>Fortunes</hi> to him; and what I can do with ſafety to your <hi>Crown,</hi> to preſerve him, I ſhall do
+<pb n="14" facs="tcp:62427:10"/>it: And I hope my Reaſons being thus grounded and known, it will give no offence to your <hi>Majeſtie</hi> or any elſe.</p>
+            <p>And I have this Satisfaction in my ſelf, that your <hi>Majeſtie</hi> would not have committed ſo many weighty <hi>Truſts</hi> to me, if you had the leaſt doubt of me; and therefore ſetting aſide theſe groundleſs <hi>tattles</hi> of my <hi>Ladies,</hi> I ſhall go on in my Con<g ref="char:EOLhyphen"/>tinued <hi>Obedience</hi> to your <hi>Commands,</hi> and Care of your Majeſties Affairs, without regard to this undeſerved <hi>Aſperſion.</hi>
+            </p>
+            <p>
+               <hi>She accuſeth me of breach of Promiſe to the King and Counſel, In not paying her</hi> 104 <hi>l. per annum.</hi>
+            </p>
+            <p>This hath made a great noiſe about the <hi>Court,</hi> where I would gladly preſerve my juſt <hi>Intereſt,</hi> and therefore I ſhall be the clea<g ref="char:EOLhyphen"/>rer in my <hi>Anſwer,</hi> That after ſhe had <hi>got</hi> the <hi>Excommunication</hi> in 72. as aforeſaid, leſt ſhe ſhould (as I ſuppoſe) offend his <hi>Majeſty</hi> in further proceeding, it being gained as a Contempt to his <hi>Ma<g ref="char:EOLhyphen"/>jeſties Prerogative,</hi> by the <hi>Act</hi> of <hi>Edw</hi> 2. cap. 9. ſhe Petitions the <hi>King</hi> and <hi>Councel</hi> to confirm the ſame; ſo I attended the <hi>Board</hi> 31. of <hi>Octob.</hi> 72. where I repreſented the Proceedings of the <hi>Spiritual Court,</hi> and pray'd it might be <hi>honourably</hi> diſcharged; that my <hi>Goods</hi> and <hi>Jewels</hi> might be reſtored, and her Scandalous <hi>Petitions</hi> and <hi>Libels</hi> taken off their Files, &amp;c. But the <hi>Board</hi> (being kinder than the Spiritual Court) inſiſted to have me pay 40 <hi>s. per</hi> Week: But I acquainted them with the preſent condi<g ref="char:EOLhyphen"/>tion of my <hi>Real Eſtate,</hi> out of which nothing could be paid to her; But gave in a Particular in writing of the ſeveral <hi>great Debts</hi> owing to me, and by whom, and told the Reaſons why I could not get them in without her and other <hi>aſſiſtances;</hi> and out of that perſonal Eſtate I was contented to allow any Weekly ſum they ſhould think fit.</p>
+            <p>This with other Diſcourſes to the <hi>Board,</hi> occaſioned one of them (my Honoured Friend) to riſe from his Seat, and came and adviſed me not to Capitulate with his <hi>Majeſtie</hi> (who was then preſent); which advice being from a <hi>Friend,</hi> I could not but ap<g ref="char:EOLhyphen"/>prehend, but his <hi>Majeſty</hi> would ſome way or other <hi>aſſiſt</hi> me (though he thought it not proper to declare it publickly); So I did yield to pay her 40 s. <hi>per</hi> Week, and did pay her accordingly for 25. weeks. But finding that ſhe would not <hi>concurr</hi> with me
+<pb n="15" facs="tcp:62427:10"/>in any thing, to get in her <hi>Fathers Debts</hi> or others, and that no conſideration was taken of my <hi>Reputation,</hi> or <hi>Incouragements,</hi> and the Points about <hi>Alimony</hi> ſtill lying undecided, I did ſtop my hand from paying any more to her.</p>
+            <p>Since which I was again ſummon'd to the <hi>Board,</hi> viz. in <hi>Apr.</hi> 74. where I did attend, and ſhe alſo preſent, and the Board not taking upon them any compulſive power, but finding that I was not altered from my reſolutions, they <hi>diſmiſt</hi> us <hi>both.</hi>
+            </p>
+            <p>Since which an honoured <hi>Lord</hi> interceded for her, to whom I gave in writing ſeveral Propoſals on my part and hers, which his Lordſhip thought reaſonable; and upon her refuſal hath not any further interceded for her, and for brevity ſake, I ſhall onely recite what ſhe was therein to perform, being but the ſubſtance of part of what I did, and do ſtill inſiſt on, as both <hi>juſt</hi> and <hi>reaſonable.</hi>
+            </p>
+            <list>
+               <item>1. That ſhe ſhould make a <hi>Submiſſe</hi> Petition to the <hi>King</hi> and <hi>Councel,</hi> That the Excommunication may be honourably diſchar<g ref="char:EOLhyphen"/>ged, (it being contrived at a time when I was in <hi>immediate</hi> Com<g ref="char:EOLhyphen"/>mands to His <hi>Majeſtie</hi>) and that ſhe alſo deſire that her <hi>Scandalous Petitions</hi> to the <hi>Board,</hi> and Orders thereupon, may be <hi>honourably</hi> vacated; and that by order of the <hi>Board,</hi> the <hi>Scandalous</hi> Libels in the Spiritual Court may be alſo taken off their Files.</item>
+               <item>2. That ſhe give in writing where and to whom her <hi>Jewels</hi> were pawned or ſold, and for what ſums, and what remains.</item>
+               <item>3. What <hi>Pictures, Books</hi> or other <hi>Rarities</hi> were delivered to E. M. C. F. M. S. M. C. all perſons which I know, but think not fit to nominate them at preſent; or what of the like nature to any other <hi>perſons</hi> unknown to me.</item>
+            </list>
+            <p>Notwithſtanding which fair and juſt Propoſals both for her and my ſelf, ſo ſoon as I was once more fixt to the Affairs of the <hi>Coun<g ref="char:EOLhyphen"/>try,</hi> ſhe again revives the <hi>Excommunication,</hi> and in <hi>June</hi> laſt cauſed it to be <hi>publiſht</hi> once more in the <hi>Church.</hi>
+            </p>
+            <p>And now what I did lately, and intended to do for his Majeſty, the Kingdom and Country, I ſhall briefly declare.</p>
+            <p>My Houſe is within 6. miles of <hi>Dunwich</hi> and <hi>Sowthold Bay,</hi> where the great Tranſactions between us and the <hi>Dutch</hi> in 72. and 73. gave Trouble enough to thoſe who were in Imployments, and having mentioned mine before, I ſhall only ſay, That I hope his <hi>Majeſty</hi> and the <hi>Country</hi> are well ſatisfied of my demeanour therein, and I am ſure I have had the thanks from ſome of the Chief
+<pb n="16" facs="tcp:62427:11"/>Officers of <hi>Prince Rupert</hi>'s Dragoons, the Earl of <hi>Oxford</hi>'s Horſe, and many of <hi>Scombergs</hi> Army, for compoſing many differences, which might otherwiſe have riſen between <hi>them</hi> in the <hi>Country:</hi> and I dare be confident, that the other <hi>Deputy Lieutenants</hi> appointed for that <hi>Diviſion</hi> being diverted by ſick<g ref="char:EOLhyphen"/>neſs or other Juſtifiable Accidents, will teſtifie my Care in ſupplying of theirs when they could not poſſibly attend; And all theſe without any re<g ref="char:EOLhyphen"/>turn or <hi>recompence</hi> to my great <hi>Trouble, Charges</hi> and <hi>diverſions</hi> from my private Concerns, from his <hi>Majeſty,</hi> the <hi>Country,</hi> or any elſe.</p>
+            <p>So ſoon as thoſe two years were over, I betook my ſelf to the review of our <hi>Lawes</hi> for the <hi>Militia,</hi> ſo as by ſome additional Act, it might be put into a better poſture, with more ſafety to the <hi>King</hi> and <hi>Country,</hi> and leſs fear on either ſide.</p>
+            <p>I had alſo digeſted all the <hi>Lawes</hi> for <hi>High-wayes.</hi> intending to reduce them into one, with an additional <hi>Method</hi> which might be more applicable to each <hi>County,</hi> then any <hi>general Law</hi> can be.</p>
+            <p>I did alſo give in a Propoſal to the <hi>Lords Commiſsioners</hi> of the <hi>Admiralty</hi> in <hi>May</hi> laſt, for the mending a <hi>Lane</hi> call'd <hi>Chriſtmas Lane,</hi> and the <hi>Haven</hi> at <hi>Dunwich</hi> and <hi>Sowthold,</hi> very beneficial to the <hi>County,</hi> without any Charge to the <hi>King,</hi> or <hi>Impoſition</hi> on the County: But being diverted by this <hi>Lady,</hi> ſo many years together, It hath been as great a perplexity to my thoughts (that I could not purſue them to maturity) as the many fomented Vexations from her and others.</p>
+         </div>
+         <div type="conclusion">
+            <head>The Concluſion.</head>
+            <p>HAving ſtated her proceedings towards me, (there being many more which for brevity ſake I omit) and the Incouragements which ſhe hath received from others, (grounded I preſume upon her many <hi>falſe Accuſations.</hi> which I have truly, really and as ſuccinctly as I can <hi>anſwered</hi>) as alſo ſhewn the publick Injuries which ſhe hath done thereby;</p>
+            <p>I do affirm as a Concluſion, That I never yet refuſed <hi>Cohabitation,</hi> ſo as it may be ſafe to my <hi>Perſon,</hi> and my remaining Eſtate, and a mutual content<g ref="char:EOLhyphen"/>ment in our future <hi>Converſations.</hi> But that being thought difficult, I alſo affirm, That I never denyed <hi>Allimony,</hi> but I think fit (<hi>as uſeful to other Fami<g ref="char:EOLhyphen"/>lies,</hi> and conſequently <hi>to the Nation</hi>) to be reſolved, whether in reſpect of her long <hi>abſente:</hi> and <hi>refidence beyond the Seas,</hi> in places <hi>Prohibited,</hi> ſhe be capable of <hi>Alimony.</hi> Then if ſhe be, Whether my <hi>Goods</hi> and <hi>Jewels</hi> ought not to be proportioned in the <hi>allowance,</hi> or reſtored: If not, then the the Condition of <hi>her Forumes,</hi> or <hi>mine,</hi> are to be conſidered (wherein I think my ſelf a more Competent Judge, then what can be Collected by <hi>any Judges barely</hi> and <hi>meerly</hi> from her <hi>Suggeſtions,</hi> and ſhall endeavour to put a better certainty upon it, then they with <hi>Juſtice</hi> can impoſe upon me</p>
+            <p>Nor do I think it prudent to move further, till ſome <hi>publique Submiſsion</hi> and publication by ſome <hi>Order</hi> of Councel or otherwiſe be obtained for the <hi>Vindication</hi> of her Ungrateful and Scandalous <hi>Aſperſions</hi> on me, which I preſumel are been the ground of the <hi>Excominunication, intrencoing</hi> (as I hum<g ref="char:EOLhyphen"/>bly conative) on his Majeſties Honour, and I am ſure on my <hi>Reputation,</hi> which I ever valued as my Life.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
